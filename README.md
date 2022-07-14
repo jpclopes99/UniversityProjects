@@ -1,2 +1,4 @@
-# DegreeProjects
-In this repository you can find all the projects I did during my degree in Computer Engineering Some projects are on a drive because they are too big. The link to these projects is found in the respective chair folder, with a text file with the link that gives access to the project on the drive
+# Projects
+All projects carried out during his degree and master's degree can be found at the following link: https://drive.google.com/drive/folders/1KP_xb6q7l_Hg5KPyBR63gX75zC_ocEhj?usp=sharing
+
+Click to access these projects on Google Drive
